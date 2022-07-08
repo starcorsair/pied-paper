@@ -1,0 +1,108 @@
+body {
+  margin: 0;
+}
+header {
+  height: 84px;
+  width: 100%;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  background-color: #007765;
+  position: sticky;
+}
+.head-contain {
+  display: inline-flex;
+  padding-left: 55px;
+}
+.logo {
+  display: inline-flex;
+  background-image: url(logo.svg);
+  background-repeat: no-repeat;
+  width: 184px;
+  height: 45px;
+  margin-top: 20px;
+  margin-bottom: 19px;
+}
+.menu {
+  display: inline-flex;
+  padding-left: 502px;
+  padding-right: 54px;
+  padding-top: 28px;
+  padding-bottom: 27px;
+  margin: 0 -5px;
+}
+.problem {
+  display: flex;
+  flex: 1 1 auto;
+  margin: 0 5px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+  color: #ffff;
+  white-space: nowrap;
+}
+#menu-point {
+  flex: 1 1 auto;
+  margin: 0 5px;
+  display: flex;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+  color: #ffff;
+  white-space: nowrap;
+}
+.pied {
+  flex: 1 1 auto;
+  margin: 0 5px;
+  display: flex;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+  color: #ffff;
+  white-space: nowrap;
+}
+#menu-point-1 {
+  flex: 1 1 auto;
+  margin: 0 5px;
+  display: flex;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+  color: #ffff;
+  white-space: nowrap;
+}
+.team {
+  flex: 1 1 auto;
+  margin: 0 5px;
+  display: flex;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+  color: #ffff;
+  white-space: nowrap;
+}
+main {
+  width: 100%;
+  margin-top: 0px;
+}
+.jmbotron {
+  background-image: url(Jumbotron.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 403px;
+}
+
+footer {
+  width: 100%;
+}
